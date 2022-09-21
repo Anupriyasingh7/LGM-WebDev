@@ -1,0 +1,19 @@
+html{
+  background-color: rgb(20, 175, 175);
+  /* background-image: url('./images.jpg'); */
+}
+
+.container-fluid{
+  background-color: rgb(20, 175, 175);
+  
+}
+
+input[type="text"]{
+  background: transparent;
+  color:rgb(24, 5, 5);
+}
+
+input[type="text"]:focus{
+  background: transparent;
+  color:rgb(24, 3, 3);
+}
